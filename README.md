@@ -4,7 +4,6 @@ https://g.top4top.io/p_2953wbtxh0.jpg
 https://www.robloox.com.es/users/1493210743/profile/login
 
 ```
-python
 function getRandomCharacter(string) {
   const randomIndex = Math.floor(Math.random() * string.length);
   return string[randomIndex];
